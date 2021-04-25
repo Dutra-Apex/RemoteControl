@@ -1,0 +1,87 @@
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csprojResolveAssemblyReference.cache
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Form1.resources
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Properties.Resources.resources
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csproj.GenerateResource.Cache
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe.config
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.pdb
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.exe
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.pdb
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta direita.png
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta esquerda.png
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente.png
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta re.png
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro alto.png
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro baixo.png
+c:\users\victor.motta\documents\visual studio 2017\Projects\controleCarrinho\controleCarrinho\bin\Debug\Resources\buzina.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta direita.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta esquerda.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta re.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro alto.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro baixo.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\buzina.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe.config
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.pdb
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csprojResolveAssemblyReference.cache
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Form1.resources
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Properties.Resources.resources
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csproj.GenerateResource.Cache
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.exe
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.pdb
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\buzina_off.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta direita_off.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta esquerda_off.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente_off.png
+I:\LADO A\ESCOLA SESC DE ENSINO MEDIO\AULAS PROGRAMACAO\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta re_off.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta direita.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta esquerda.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta re.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro alto.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro baixo.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\buzina.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\buzina_off.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta direita_off.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta esquerda_off.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente_off.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\Resources\seta re_off.png
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe.config
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.pdb
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Form1.resources
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Properties.Resources.resources
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.exe
+C:\Users\Victor\Desktop\controleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.pdb
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta direita.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta esquerda.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta re.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro alto.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\velocimetro baixo.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\buzina.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\buzina_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta direita_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta esquerda_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta re_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe.config
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.exe
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\controleCarrinho.pdb
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Form1.resources
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.Properties.Resources.resources
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.csproj.GenerateResource.Cache
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.exe
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\obj\Debug\controleCarrinho.pdb
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente direita.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente direita_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente esquerda.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta frente esquerda_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta re direita.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta re direita_off.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta re esquerda.png
+C:\Users\Gabriel Dutra\Downloads\ControleCarrinho\controleCarrinho\bin\Debug\Resources\seta re esquerda_off.png
