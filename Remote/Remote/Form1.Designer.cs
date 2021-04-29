@@ -1,4 +1,4 @@
-﻿namespace RemoteControl
+﻿namespace controleCarrinho
 {
     partial class Form1
     {
@@ -8,7 +8,7 @@
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Limpar os recursos que estão sendo usados.
+        /// Clear resources being utilized.
         /// </summary>
         /// <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
         protected override void Dispose(bool disposing)
