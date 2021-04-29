@@ -1,2 +1,2 @@
 # RemoteControl
-C# code to remotely control devices using Arduino. 
+C# code to remotely control servo motors using Arduino. 
