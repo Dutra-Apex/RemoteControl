@@ -9,8 +9,8 @@
 
         /// <summary>
         /// Clear resources being utilized.
-        /// </summary>
-        /// <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
+        /// </summary
+        /// <param name="disposing">true in case there is a need to discard resources being utilized; false othewise.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
