@@ -23,8 +23,8 @@
         #region 
 
         /// <summary>
-        /// Método necessário para suporte ao Designer - não modifique 
-        /// o conteúdo deste método com o editor de código.
+        /// Necessary method to support the Desginer.
+        /// Do not modify the content of this code.
         /// </summary>
         private void InitializeComponent()
         {
