@@ -1,9 +1,9 @@
-﻿namespace controleCarrinho
+﻿namespace RemoteControl
 {
     partial class Form1
     {
         /// <summary>
-        /// Variável de designer necessária.
+        /// Necessary design variable
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
