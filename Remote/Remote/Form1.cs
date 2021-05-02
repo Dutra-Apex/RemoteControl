@@ -145,7 +145,7 @@ namespace controleCarrinho
             {
                 farolLigado = false;
                 comando = "w";
-                btn_Farol.Text = "Ligar Farol";
+                btn_Farol.Text = "Turn Lights On";
             }
         }
 
