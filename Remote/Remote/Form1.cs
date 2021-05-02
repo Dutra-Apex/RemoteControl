@@ -139,7 +139,7 @@ namespace controleCarrinho
             {
                 farolLigado = true;
                 comando = "W";
-                btn_Farol.Text = "Desligar Farol";
+                btn_Farol.Text = "Turn Lights Off";
             }
             else
             {
