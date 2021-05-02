@@ -155,7 +155,7 @@ namespace controleCarrinho
             {
                 lanternaLigada = true;
                 comando = "U";
-                btn_Lanterna.Text = "Desligar Lanterna";
+                btn_Lanterna.Text = "Turn Off Flashlight";
             }
             else
             {
