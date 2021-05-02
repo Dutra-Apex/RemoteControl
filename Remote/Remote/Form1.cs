@@ -161,7 +161,7 @@ namespace controleCarrinho
             {
                 lanternaLigada = false;
                 comando = "u";
-                btn_Lanterna.Text = "Ligar Lanterna";
+                btn_Lanterna.Text = "Turn On Flashlight";
             }
         }
     }
